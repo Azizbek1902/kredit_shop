@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1232,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Ed6RsG9k8mbOwHA7TZqOV_taJhsXdyn8sA&usqp=CAU",
+      "title": "Televizor Xiaomi dadwad ad awd awdaw",
+      "desc": "Aqlli televizor Xiaomi Mi TV A2 55', 50', 43', 32' Android TV, ekran o'lchamlari 4K/FullHD",
+      "price": 10000,
+      "category": {
+        "id": 1,
+        "title": "Televizor"
+      },
+      "status": false
+    },
+    {
+      "id": 1312232,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Ed6RsG9k8mbOwHA7TZqOV_taJhsXdyn8sA&usqp=CAU",
+      "title": "Televizor Xiaomi",
+      "desc": "Aqlli televizor Xiaomi Mi TV A2 55', 50', 43', 32' Android TV, ekran o'lchamlari 4K/FullHD",
+      "price": 900000,
+      "category": {
+        "id": 1,
+        "title": "Televizor"
+      },
+      "status": false
+    },
+    {
+      "id": 1255232,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Ed6RsG9k8mbOwHA7TZqOV_taJhsXdyn8sA&usqp=CAU",
+      "title": "Mebel Xiaomi",
+      "desc": "Aqlli televizor Xiaomi Mi TV A2 55', 50', 43', 32' Android TV, ekran o'lchamlari 4K/FullHD",
+      "price": 600000,
+      "category": {
+        "id": 1,
+        "title": "Mebellar"
+      },
+      "status": false
+    },
+    {
+      "id": 12194332,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Ed6RsG9k8mbOwHA7TZqOV_taJhsXdyn8sA&usqp=CAU",
+      "title": "Kompyuter Xiaomi",
+      "desc": "Aqlli televizor Xiaomi Mi TV A2 55', 50', 43', 32' Android TV, ekran o'lchamlari 4K/FullHD",
+      "price": 300000,
+      "category": {
+        "id": 1,
+        "title": "Kompyuterlar"
+      },
+      "status": false
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Samartfonlar"
+    },
+    {
+      "id": 12,
+      "title": "Televizor"
+    },
+    {
+      "id": 13,
+      "title": "Kompyuterlar"
+    },
+    {
+      "id": 14,
+      "title": "Mebellar"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.shopBtn {
+  background-color: rgba(4, 162, 7, 0.844);
+  box-shadow: 0px 0px 25px rgb(4, 162, 7);
+}
+.shadowCard{
+  box-shadow: 0px 0px 15px rgb(205, 205, 205);
+}
